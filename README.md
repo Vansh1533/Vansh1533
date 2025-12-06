@@ -30,8 +30,6 @@
 
 ### 🧰 Tech Stack
 
-## 🛠 Tech Stack
-
 ## 🛠️ Tech Stack
 
 ### 🚀 Languages  

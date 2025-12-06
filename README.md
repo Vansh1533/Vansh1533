@@ -10,7 +10,7 @@
   <a href="https://anujjainbatu.github.io/anujjainbatu/resume_show_16092025.pdf">
     <img src="https://img.shields.io/badge/ Download Resume-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Resume" />
   </a>
-  <a href="https://portfolio.anujjainbatu.tech/">
+  <a href="https://vanshm.netlify.app//">
     <img src="https://img.shields.io/badge/🚀 Visit Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
 </p>

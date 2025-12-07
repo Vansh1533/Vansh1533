@@ -90,7 +90,7 @@
 🤖 AI-driven content generation & resume parsing<br> 
 💬 Dynamic chatbot with intelligent responses<br> 
 ⚡ Responsive design with Vercel deployment<br><br> 
-<a href="(https://vanshm.netlify.app//)"> 
+
 <img src="https://img.shields.io/github/stars/vansh1533/portfolio?style=social" /> 
 </a> 
 <a href="(https://vanshm.netlify.app//)"> 

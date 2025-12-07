@@ -90,10 +90,10 @@
 🤖 AI-driven content generation & resume parsing<br> 
 💬 Dynamic chatbot with intelligent responses<br> 
 ⚡ Responsive design with Vercel deployment<br><br> 
-<a href="https://github.com/anujjainbatu/portfolio"> 
+<a href="(https://vanshm.netlify.app//)"> 
 <img src="https://img.shields.io/github/stars/anujjainbatu/portfolio?style=social" /> 
 </a> 
-<a href="https://portfolio.anujjainbatu.tech/"> 
+<a href="(https://vanshm.netlify.app//)"> 
 <img src="https://img.shields.io/badge/Live%20Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" /> 
 </a> 
 </p> 

@@ -91,7 +91,7 @@
 💬 Dynamic chatbot with intelligent responses<br> 
 ⚡ Responsive design with Vercel deployment<br><br> 
 <a href="(https://vanshm.netlify.app//)"> 
-<img src="https://img.shields.io/github/stars/anujjainbatu/portfolio?style=social" /> 
+<img src="https://img.shields.io/github/stars/vansh1533/portfolio?style=social" /> 
 </a> 
 <a href="(https://vanshm.netlify.app//)"> 
 <img src="https://img.shields.io/badge/Live%20Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" /> 

@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://anujjainbatu.github.io/anujjainbatu/resume_show_16092025.pdf">
+  <a href="https://anujjainbatu.github.io/vansh1533/resume_show_16092025.pdf">
     <img src="https://img.shields.io/badge/ Download Resume-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Resume" />
   </a>
   <a href="https://vanshm.netlify.app//">
@@ -108,7 +108,7 @@
 <a href="https://github.com/anujjainbatu/insurance-premium-prediction-fastapi"> 
 <img src="https://img.shields.io/github/stars/anujjainbatu/insurance-premium-prediction-fastapi?style=social" /> 
 </a> 
-<a href="(https://resume-analyser-5hqgjqts56khppls7vhd4t.streamlit.app/)"> 
+<a href="https://resume-analyser-5hqgjqts56khppls7vhd4t.streamlit.app/"> 
     <img src="https://img.shields.io/badge/LIVE DEMO-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio" />
 </a> 
 </p> 

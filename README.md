@@ -109,7 +109,7 @@
 <img src="https://img.shields.io/github/stars/anujjainbatu/insurance-premium-prediction-fastapi?style=social" /> 
 </a> 
 <a href="https://resume-analyser-5hqgjqts56khppls7vhd4t.streamlit.app/"> 
-    <img src="https://img.shields.io/badge/LIVE DEMO-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio" />
+   <img src="https://img.shields.io/badge/Live Demo-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </a> 
 </p> 
 </td> 

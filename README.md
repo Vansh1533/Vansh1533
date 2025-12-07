@@ -93,10 +93,10 @@
 
 <img src="https://img.shields.io/github/stars/vansh1533/portfolio?style=social" /> 
 </a> 
-<a href="(https://vanshm.netlify.app//)"> 
-<img src="https://img.shields.io/badge/Live%20Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" /> 
-</a> 
-</p> 
+  <a href="https://vanshm.netlify.app//">
+    <img src="https://img.shields.io/badge/LIVE DEMO-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 </td> 
 <td width="50%"> 
 <h3>📊 Insurance Premium Prediction API</h3> 

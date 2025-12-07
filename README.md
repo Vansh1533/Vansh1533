@@ -99,16 +99,16 @@
 </p>
 </td> 
 <td width="50%"> 
-<h3>📊 Insurance Premium Prediction API</h3> 
+<h3>📊 Resume Analyzer</h3> 
 <p> 
-⚡ <strong>Production-ready ML API with FastAPI</strong><br> 
-🐳 Dockerized with comprehensive monitoring<br> 
-📚 Swagger documentation & Pydantic validation<br> 
-🏗️ Scalable architecture & error handling<br><br> 
+⚡ AI-powered ATS Resume Analyzer</strong><br> 
+🐳 Upload your resume & compare it with a job description<br> 
+📚 get a structured analysis including match percentage, strengths, weaknesses, and skill gaps<br> 
+🏗️  Built with Streamlit & Google Gemini API<br><br> 
 <a href="https://github.com/anujjainbatu/insurance-premium-prediction-fastapi"> 
 <img src="https://img.shields.io/github/stars/anujjainbatu/insurance-premium-prediction-fastapi?style=social" /> 
 </a> 
-<a href="http://51.20.55.205:8000/docs"> 
+<a href="(https://resume-analyser-5hqgjqts56khppls7vhd4t.streamlit.app/)"> 
 <img src="https://img.shields.io/badge/API%20Docs-FF6B35?style=for-the-badge&logo=swagger&logoColor=white" /> 
 </a> 
 </p> 

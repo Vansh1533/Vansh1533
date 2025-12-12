@@ -149,7 +149,7 @@
 </table>
 
 <p align="center">
-<a href="https://github.com/anujjainbatu?tab=repositories&q=&type=public&language=&sort=updated">
+<a href="https://github.com/Vansh1533?tab=repositories">
 <img src="https://img.shields.io/badge/🔍 Explore%20All%20Projects-343541?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>

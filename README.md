@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/drive/u/0/folders/1FEZm5dOFaiAEBeepMfrccDzvdTRZnicD">
+  <a href="https://drive.google.com/file/d/1cYI86mTi0l4NYZUS4XO9SWp10jwOImHK/view?usp=sharing">
     <img src="https://img.shields.io/badge/ Download Resume-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Resume" />
   </a>
   <a href="https://vanshm.netlify.app//">

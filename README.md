@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://anujjainbatu.github.io/vansh1533/resume_show_16092025.pdf">
+  <a href="(https://drive.google.com/drive/u/0/folders/1FEZm5dOFaiAEBeepMfrccDzvdTRZnicD)">
     <img src="https://img.shields.io/badge/ Download Resume-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Resume" />
   </a>
   <a href="https://vanshm.netlify.app//">

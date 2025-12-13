@@ -163,16 +163,6 @@
 * Completed 8 advanced modules: Deep Learning, Generative AI, Reinforcement Learning
 * Hands-on experience with **Amazon-scale ML systems** and recommendation engines
 
-**🤖 MookMati - ML Intern** *(July 2024)*
-* Developed **book genre classification model** with **88% F1-score** using TF-IDF + XGBoost
-* Built **FastAPI backend** with REST endpoints for real-time predictions
-* **Containerized & deployed** on AWS EC2 with monitoring and auto-restart
-
-**💻 Fiverr - Freelance Python & AI Developer** *(Aug 2023 - Present)*
-* Delivered **25+ automation solutions** reducing manual work by **60%**
-* Built **GenAI-powered chatbots** using LangChain, LangGraph, OpenAI APIs
-* Developed **LLM-backed APIs** with FastAPI and Docker for enterprise clients
-
 ---
 
 ### 🏅 Major Achievements

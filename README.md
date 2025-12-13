@@ -1,4 +1,4 @@
-# Vansh1533
+# Vansh Mehra
 <h1 align="center">Hi 👋, I'm Vansh </h1>
 <h3 align="center">Full-stack Python Developer & AI Engineer | Amazon ML Summer School Trainee</h3>
 

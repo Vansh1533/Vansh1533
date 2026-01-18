@@ -1,6 +1,6 @@
 # Vansh Mehra
 <h1 align="center">Hi 👋, I'm Vansh </h1>
-<h3 align="center">Full-stack Python Developer & AI Engineer | Amazon ML Summer School Trainee</h3>
+<h3 align="center">Full-stack Python Developer & AI Engineer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI%20%7C%20ML%20%7C%20Generative%20AI%20%7C%20IoT%20Builder;Amazon%20ML%20Summer%20School%20Trainee;SIH%202025%20Finalist%20%7C%20Top%200.002%25!" alt="Typing SVG" />
@@ -20,9 +20,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Pursuing **B.Tech in Metallurgical and Material Engineering** at Indian Institute of Technology Ropar (CGPA: 6.03/10.0)
-- 🧠 **Amazon ML Summer School Trainee** – Selected from 60,000+ applicants (top 5%)
-- 🏆 **Smart India Hackathon 2025 Finalist** – 2nd position among 88,221 teams
-- 🚀 **25+ delivered automation projects** with 60% manual work reduction
+- 🚀 **delivered automation projects** with 60% manual work reduction
 - 💡 Expert in **Generative AI, LLM Agents, Machine Learning & Full-Stack Development**
 - 🛠️ Currently building **AI-powered applications** and **production-ready ML systems**
 
